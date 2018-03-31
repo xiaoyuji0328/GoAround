@@ -22,7 +22,7 @@ const (
 	PROJECT_ID = "stable-balancer-199302"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.184.206.34:9200"
+	ES_URL = "http://35.188.79.177:9200"
 )
 
 
